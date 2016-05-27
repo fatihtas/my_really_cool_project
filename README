@@ -1,10 +1,21 @@
-This project is totally awesome, guys!
+<<<<<<< HEAD
+This project is seriously awesome, guys!
 
 
 This project will teach me how to use GIT to track changes on GIT Repositories.
 
 =======
+=======
+
+
+
+
+
+
+
+>>>>>>> foo_feature
 This project is seriously awesome, guys!
+
 
 This project will help all the totally awesome Treehouse students learn about working with Git repositories.
 >>>>>>> foo_feature
